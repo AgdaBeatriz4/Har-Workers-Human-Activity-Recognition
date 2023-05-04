@@ -1,4 +1,4 @@
-# Algoritmo de reconhecimento de atividade Humana
+# Algoritmo de Reconhecimento de Atividade Humana
 
 O software propõe uma estratégia baseada em sistemas inteligente para monitoramento de trabalhadores na realização de suas tarefas na indústria, visando prevenir doenças ocupacionais. Dados do sensoriamento de atividades rotineiras de um trabalhador são avaliados pelo software, que implementa reconhecimento de atividade humana, tendo como foco principal limitar o tempo máximo de execução de uma mesma atividade repetitiva.
 
